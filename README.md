@@ -6,6 +6,6 @@ Los algoritmos genéticos funcionan iterando sobre generaciones de poblaciones y
 ### 3. ¿Cómo funciona el algoritmo?
 #### 3.1. El concepto de individuo
 #### 3.2. Fitness (Aptitud física)
-### 4.Mutación y reproducción
+### 4. Mutación y reproducción
 ### 5. El algoritmo genético
 #### Pruebas
